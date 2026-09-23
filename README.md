@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Software student exploring **frontend craft** and **cybersecurity**
+- 🎓 Software student exploring **frontend Developer** and **cybersecurity (Soon)**
 - 🎨 Mode: `CREATIVE` — I like turning ideas into interactive, visual experiences (see my 3D portfolio!)
 - 🌐 Stack focus: **Web / 3D / UI**
 - 📍 Based in Ponorogo, East Java, Indonesia
@@ -33,15 +33,13 @@
 
 </p>
 
-> ✏️ *Sesuaikan badge di atas dengan tools/bahasa yang benar-benar kamu pakai — saya menaruh contoh umum untuk stack web/3D/UI.*
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GITHUB_USERNAME>&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cadanganacoout-lab&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadanganacoout-lab&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -50,9 +48,9 @@
 
 <p align="left">
   <a href="https://gilangfaid.vercel.app/"><img src="https://img.shields.io/badge/Website-050913?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:<EMAIL_KAMU>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/<LINKEDIN_USERNAME>"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/<INSTAGRAM_USERNAME>"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:langgdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gilang-nur-naulida-faid-080233400/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/gilanzq_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>© 2026 — Digital Portfolio SYS.ID /// 0xGF</i></p>
