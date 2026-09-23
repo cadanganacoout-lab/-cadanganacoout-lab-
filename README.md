@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gilang 👋</h1>
+  <h1 align="center">Hi, I'm Gilang 👋</h1>
 <h3 align="center">SYS.ID / GF-01 — Building ideas, breaking limits.</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-#175C2?style=for-the-badge&logo=typescript&logoColor=blue" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
