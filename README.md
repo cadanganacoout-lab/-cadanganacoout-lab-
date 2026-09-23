@@ -24,12 +24,21 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-#175C2?style=for-the-badge&logo=typescript&logoColor=blue" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <!-- JavaScript -->
+<img src="https://shields.io" />
+
+<!-- Dart -->
+<img src="https://shields.io" />
+
+<!-- Flutter -->
+<img src="https://shields.io" />
+
+<!-- Tailwind CSS -->
+<img src="https://shields.io" />
+
+<!-- Bootstrap -->
+<img src="https://shields.io" />
+
 </p>
 
 > ✏️ *Sesuaikan badge di atas dengan tools/bahasa yang benar-benar kamu pakai — saya menaruh contoh umum untuk stack web/3D/UI.*
