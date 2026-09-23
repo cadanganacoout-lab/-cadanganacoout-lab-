@@ -1,61 +1,57 @@
-# Welcome to Gilang's Interface 🌐
+<h1 align="center">Hi, I'm Gilang 👋</h1>
+<h3 align="center">SYS.ID / GF-01 — Building ideas, breaking limits.</h3>
 
- __() | __ _ _ __   __ _  / || |  | | |/  | '_ \ / _ | | || || | | | (| | | | | (| | | |_|||_,|| ||_, | |||___/
+<p align="center">
+  A living portfolio built from code, curiosity, and the will to keep building.
+</p>
 
-
- 
-> **"Build ideas. Break limits."** 
-> *An interactive digital space built from code, curiosity, and the will to keep building.*
-
----
-
-### 🛸 SYS.ID // GF-01
-
-Saya adalah seorang siswa **Rekayasa Perangkat Lunak (Software Engineering)** yang berfokus pada pengembangan *frontend craft*, pemrograman web 3D/interaktif, serta eksplorasi di bidang *cybersecurity*. Saya senang membangun antarmuka web modern yang dinamis dan aman.
-
-- 📍 **Location:** Ponorogo, East Java, Indonesia
-- ⚡ **AI Status:** Ready to Connect
-- 💻 **Development Setup:** Powered by AMD Ryzen 5
+<p align="center">
+  <a href="https://gilangfaid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gilangfaid.vercel.app-050913?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🛠️ Technical Stack & Modules
+### 🧠 About Me
 
-Membangun aplikasi web dan mengelola repositori proyek menggunakan teknologi serta perangkat pendukung berikut:
-
-#### 🌐 Core Technologies & Frameworks
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-
-#### 🧰 Tools & Infrastructure
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+- 🎓 Software student exploring **frontend craft** and **cybersecurity**
+- 🎨 Mode: `CREATIVE` — I like turning ideas into interactive, visual experiences (see my 3D portfolio!)
+- 🌐 Stack focus: **Web / 3D / UI**
+- 📍 Based in Ponorogo, East Java, Indonesia
+- ⚡ Currently exploring new things in web development & security
 
 ---
 
-### 📊 GitHub Activity Readout
+### 🛠️ Tech Stack
 
-🚀 *Live system statistics monitoring:*
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-| **Status** | **Specification** |
-| :--- | :--- |
-| **Current Mode** | Creative & Development |
-| **Focus Areas** | Web / 3D / UI & Security |
-| **Environment** | Command Line Interfaces & Database Design |
+> ✏️ *Sesuaikan badge di atas dengan tools/bahasa yang benar-benar kamu pakai — saya menaruh contoh umum untuk stack web/3D/UI.*
 
 ---
 
-### 🔌 Connect to Core
+### 📊 GitHub Stats
 
-Ingin berkolaborasi atau sekadar menyapa? Saluran komunikasi digital telah dibuka:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GITHUB_USERNAME>&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-- 🌐 **Live Portfolio:** [gilangfaid.vercel.app](https://gilangfaid.vercel.app/)
-- 💬 **Open Channel:** Silakan hubungi saya via DM GitHub atau melalui tautan kontak di portofolio utama saya.
+---
 
+### 🔗 Connect with Me
 
+<p align="left">
+  <a href="https://gilangfaid.vercel.app/"><img src="https://img.shields.io/badge/Website-050913?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:<EMAIL_KAMU>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/<LINKEDIN_USERNAME>"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/<INSTAGRAM_USERNAME>"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-INITIALIZING DIGITAL SPACE... SUCCESS.© 2026 — DIGITAL PORTFOLIO SYS.ID /// 0xGF
+<p align="center"><i>© 2026 — Digital Portfolio SYS.ID /// 0xGF</i></p>
