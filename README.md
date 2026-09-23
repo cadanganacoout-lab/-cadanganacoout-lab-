@@ -23,21 +23,13 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <!-- JavaScript -->
-<img src="https://shields.io" />
-
-<!-- Dart -->
-<img src="https://shields.io" />
-
-<!-- Flutter -->
-<img src="https://shields.io" />
-
-<!-- Tailwind CSS -->
-<img src="https://shields.io" />
-
-<!-- Bootstrap -->
-<img src="https://shields.io" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 </p>
 
